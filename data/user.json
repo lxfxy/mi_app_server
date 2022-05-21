@@ -1,0 +1,71 @@
+[
+    {
+        "username": "sdx",
+        "phone": "c2f5c9c8db05bc524b27a909dcbd0884",
+        "name": "sdx",
+        "pwd": "25f9e794323b453885f5181f1b624d0b",
+        "allShopNum": 95,
+        "hasDefaultPlace": true,
+        "data": {
+            "cart": [
+                {
+                    "title": "安得适安全座椅",
+                    "types": "颜色:红色;尺码:中;类型:铁;",
+                    "place": "北京 北京市 东城区 北新桥街道",
+                    "shopNum": 95,
+                    "shopId": 1,
+                    "price": 1000,
+                    "checkFlag": false
+                }
+            ],
+            "address": [
+                {
+                    "name": "sdx",
+                    "phone": "12345678910",
+                    "place": "北京 北京市 东城区 安定门街道 xxxxxxxxxx",
+                    "defaultPlace": false
+                },
+                {
+                    "phone": "12345678910",
+                    "place": "北京 北京市 东城区 北新桥街道 123123asdad奥术大师多",
+                    "defaultPlace": false,
+                    "name": "张三"
+                },
+                {
+                    "phone": "12312311231",
+                    "place": "北京 北京市 东城区 北新桥街道 123123",
+                    "defaultPlace": false,
+                    "name": "啊实打实"
+                },
+                {
+                    "phone": "12345678901",
+                    "place": "北京 北京市 西城区 白纸坊街道 11111",
+                    "defaultPlace": false,
+                    "name": "李四"
+                }
+            ]
+        }
+    },
+    {
+        "name": "张三",
+        "username": "zs",
+        "pwd": "25f9e794323b453885f5181f1b624d0b",
+        "phone": "471aed1aef657d8860699ba1298df2b4",
+        "allShopNum": 5,
+        "hasDefaultPlace": false,
+        "data": {
+            "address": [],
+            "cart": [
+                {
+                    "title": "安得适安全座椅",
+                    "types": "颜色:红色;尺码:大;类型:玻璃;",
+                    "place": "北京 北京市 西城区 金融街道",
+                    "shopNum": 5,
+                    "shopId": 1,
+                    "price": 1000,
+                    "checkFlag": false
+                }
+            ]
+        }
+    }
+]
